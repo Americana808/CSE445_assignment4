@@ -1,1 +1,124 @@
+<Hotels>
+    <Hotel Rating="3.8">
+        <Name>Motel 6</Name>
+        <Phone>+16028385289</Phone>]
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>214</Number>
+            <Street>S 24th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.5">
+        <Name>SureStay by Best Western</Name>
+        <Phone>+16022731601</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>3037</Number>
+            <Street>E Van Buren St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.1">
+        <Name>Hilton Garden Inn Phoenix Airport North</Name>
+        <Phone>+16023062323</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>3838</Number>
+            <Street>E Van Buren St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>]
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.5">
+        <Name>DoubleTree Suites by Hilton Hotel Phoenix</Name>
+        <Phone>+16022250500</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>320</Number>
+            <Street>N 44th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="3.9">
+        <Name>Grand Plaza</Name>
+        <Phone>+1-555-1234</Phone>
+        <Phone>+1-555-5678</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>123</Number>
+            <Street>Main St</Street>
+            <City>Springfield</City>
+            <State>IL</State>
+            <Zip>62701</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.0">
+        <Name>Radisson Hotel Phoenix Airport</Name>
+        <Phone>+16026613160</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>427</Number>
+            <Street>N 44TH ST</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.2">
+        <Name>Holiday Inn Express & Suites Phoenix Airport by IHG</Name>
+        <Phone>+16024539900</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>3401</Number>
+            <Street>E University Dr</Street>
+            <City>Arizona</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.6">
+        <Name>Homewood Suites by Hilton Phoenix Airport South</Name>
+        <Phone>+16024702100</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>4750</Number>
+            <Street>E Cotton Center Blvd</Street>
+            <City>Arizona</City>
+            <State>AZ</State>
+            <Zip>85040</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.4">
+        <Name>Home2 Suites by Hilton Phoenix Downtown</Name>
+        <Phone>+16026031111</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>125</Number>
+            <Street>E Jackson St</Street>
+            <City>Arizona</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.4">
+        <Name>Sheraton Phoenix Downtown</Name>
+        <Phone>+16022622500</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>340</Number>
+            <Street>N 3rd St</Street>
+            <City>Arizona</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+    
+</Hotels>
 
