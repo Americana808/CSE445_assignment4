@@ -33,7 +33,7 @@
             <Street>E Van Buren St</Street>
             <City>Phoenix</City>
             <State>AZ</State>
-            <Zip>85008</Zip>]
+            <Zip>85008</Zip>
         </Address>
     </Hotel>
     
@@ -80,7 +80,7 @@
         <Address NearestAirport="Phoenix Sky Harbor">
             <Number>3401</Number>
             <Street>E University Dr</Street>
-            <City>Arizona</City>
+            <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85034</Zip>
         </Address>
@@ -93,7 +93,7 @@
         <Address NearestAirport="Phoenix Sky Harbor">
             <Number>4750</Number>
             <Street>E Cotton Center Blvd</Street>
-            <City>Arizona</City>
+            <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85040</Zip>
         </Address>
@@ -105,7 +105,7 @@
         <Address NearestAirport="Phoenix Sky Harbor">
             <Number>125</Number>
             <Street>E Jackson St</Street>
-            <City>Arizona</City>
+            <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85004</Zip>
         </Address>
@@ -118,7 +118,7 @@
         <Address NearestAirport="Phoenix Sky Harbor">
             <Number>340</Number>
             <Street>N 3rd St</Street>
-            <City>Arizona</City>
+            <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85004</Zip>
         </Address>
