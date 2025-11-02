@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
@@ -19,8 +18,9 @@
                         <xs:element name="City" type="xs:string"/>
                         <xs:element name="State" type="xs:string"/>
                         <xs:element name="Zip" type="xs:string"/>
-                        <xs:element name="NearestAirport" type="xs:string" use="required"/>
+                        
                     </xs:sequence>
+                    <xs:element name="NearestAirport" type="xs:string" use="required"/>
                     </xs:complexType>
                 </xs:element>
                 </xs:sequence>
